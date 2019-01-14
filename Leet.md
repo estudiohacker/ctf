@@ -2,8 +2,6 @@
 
 Leet
 
-<button onclick="window.location.href='https://estudiohacker.io/';">Próximo desafio</button>
-
 <button onclick='
   var resposta = prompt("Qual é o número?");
   if (resposta == 42) {
