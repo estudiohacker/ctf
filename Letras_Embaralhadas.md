@@ -1,4 +1,4 @@
-# Estúdio Hacker - Desafio Hackers Mirins
+# Desafio Hackers Mirins
 
 ## Letras embaralhadas
 
