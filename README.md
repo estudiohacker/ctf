@@ -1,6 +1,4 @@
----
-title: Desafio Hackers Mirins
----
+# Desafio Hackers Mirins
 
 <button onclick='window.location.href="Letras_Embaralhadas";
 '>Vamos começar!</button>
