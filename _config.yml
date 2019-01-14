@@ -3,7 +3,7 @@ title: estúdio hacker
 site_name: estúdio hacker
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: estúdio hacker
+name: Desafio Hackers Mirins
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: processos de aprendizagem colaborativa em tecnologia e arte
@@ -15,8 +15,4 @@ author: Estúdio Hacker
 author_email: contato@estudiohacker.io
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://estudiohacker.io
-
-logo: /assets/logo.png
-
-google_analytics: UA-106321225-1
+url: https://estudiohacker.io
