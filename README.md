@@ -4,6 +4,7 @@
 ----
 
 Quer saber um pouco mais sobre os Hackers? Veja este vídeo:
+
 [![Quer saber um pouco mais sobre os Hackers? Veja este vídeo.](http://img.youtube.com/vi/xEZYlCKEfFk/0.jpg)](http://www.youtube.com/watch?v=xEZYlCKEfFk)
 
 
