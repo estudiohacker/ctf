@@ -7,6 +7,10 @@ Temos mais um desafio aqui, mas desta vez utilizando a [Cifra de César](https:/
 
     Hfsnsbhcg s jwbhs s ia.
 
+Esta tabela vai ajudá-lo a desvendar este desafio.
+
+![Cifra de César](Cifra_de_César.png)
+
 <button onclick='
   var resposta = prompt("Qual é o número?");
   if (resposta == 321) {
