@@ -6,7 +6,7 @@ Letras embaralhadas
   var resposta = prompt("Qual é o número?");
   if (resposta == 42) {
     alert("Parabéns! Vamos para o próximo desafio!");
-    window.location.href="xxx";
+    window.location.href="Leet";
   } else {
     alert("Resposta errada. Tente novamente.");
   }
