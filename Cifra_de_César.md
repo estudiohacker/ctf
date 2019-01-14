@@ -3,7 +3,7 @@
 ## Cifra de César
 ----
 
-Temos mais um desafio aqui, mas desta vez utilizando a Cifra de César. Quando descobrir a resposta, aperte o botão "Já sei a resposta" e digite o número encontrado.
+Temos mais um desafio aqui, mas desta vez utilizando a [Cifra de César](https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar). Quando descobrir a resposta, aperte o botão "Já sei a resposta" e digite o número encontrado.
 
     Hfsnsbhcg s jwbhs s ia.
 
