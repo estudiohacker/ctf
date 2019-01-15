@@ -10,9 +10,9 @@ Quando descobrir a resposta, aperte o botão "Já sei a resposta" e digite o nú
 
 <button onclick='
   var resposta = prompt("Qual é o número?");
-  if (resposta == 444) {
+  if (resposta == 694) {
     alert("Parabéns! Vamos para o próximo desafio!");
-    window.location.href="Cifra";
+    window.location.href="Braille";
   } else {
     alert("Resposta errada. Tente novamente.");
   }
