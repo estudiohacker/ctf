@@ -2,6 +2,8 @@
 
 ## Faça Você Mesmo
 ----
+Você concluiu com sucesso todos os desafios propostos!
+
 A seguir apresentamos diversas páginas na internet que podem ser utilizadas para gerar os desafios propostos.
 
 ### Letras Embaralhadas
