@@ -17,7 +17,7 @@ Esta tabela vai ajudá-lo a desvendar este desafio.
   var resposta = prompt("Qual é o número?");
   if (resposta == 444) {
     alert("Parabéns! Vamos para o próximo desafio!");
-    window.location.href="Cifra";
+    window.location.href="Cifra_Maçônica";
   } else {
     alert("Resposta errada. Tente novamente.");
   }
