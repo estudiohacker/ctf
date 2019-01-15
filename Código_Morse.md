@@ -10,10 +10,10 @@ Quando conseguir, aperte o botão "Já sei a resposta" e digite as três letras 
     ... --- ...
 
 <button onclick='
-  var resposta = prompt("Qual é o número?");
+  var resposta = prompt("Qual são as três letras encontradas?");
   if (resposta == "SOS") {
     alert("Parabéns! Vamos para o próximo desafio!");
-    window.location.href="Código_Morse";
+    window.location.href="Estereograma";
   } else {
     alert("Resposta errada. Tente novamente.");
   }
