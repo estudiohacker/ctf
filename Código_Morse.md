@@ -11,7 +11,7 @@ Quando conseguir, aperte o botão "Já sei a resposta" e digite as três letras 
 
 <button onclick='
   var resposta = prompt("Qual são as três letras encontradas?");
-  if (resposta == "SOS") {
+  if (resposta.toUpperCase() == "SOS") {
     alert("Parabéns! Vamos para o próximo desafio!");
     window.location.href="Estereograma";
   } else {
