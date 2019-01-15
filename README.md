@@ -3,9 +3,11 @@
 ## Introdução
 ----
 
-Quer saber um pouco mais sobre os Hackers? Veja este vídeo:
+Quer saber um pouco mais sobre os Hackers? Assista aos vídeos abaixo:
 
-[![Quer saber um pouco mais sobre os Hackers? Veja este vídeo.](http://img.youtube.com/vi/xEZYlCKEfFk/0.jpg)](http://www.youtube.com/watch?v=xEZYlCKEfFk)
+[![Hackers de verdade | Nerdologia](http://img.youtube.com/vi/xEZYlCKEfFk/0.jpg)](http://www.youtube.com/watch?v=xEZYlCKEfFk)
+
+[![Hackers do Bem](http://img.youtube.com/vi/QicOQuglXDQ/0.jpg)](http://www.youtube.com/watch?v=QicOQuglXDQ)
 
 
 ## Desafio
