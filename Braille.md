@@ -10,7 +10,7 @@ Quando descobrir a resposta, aperte o botão "Já sei a resposta" e digite o nú
 
 <button onclick='
   var resposta = prompt("Qual é o número?");
-  if (resposta == 755) {
+  if (resposta == 705) {
     alert("Parabéns! Vamos para o próximo desafio!");
     window.location.href="Sistema Hexa";
   } else {
